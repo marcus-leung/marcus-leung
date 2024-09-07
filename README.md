@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - Undergraduate student at University of California, Santa Cruz (UCSC)
 - Majoring in Technology and Information Management
 - Minoring in Computer Science
-- Currently open for a remote internship 
+- Currently open for a tech internship or position 
 
 **Skills**
 ---
