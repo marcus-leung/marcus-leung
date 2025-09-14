@@ -18,10 +18,9 @@ Here are some ideas to get you started:
 **About Me**
 ---
 
-- Undergraduate student at University of California, Santa Cruz (UCSC)
-- Majoring in Technology and Information Management
-- Minoring in Computer Science
-- Currently open for a tech internship or position 
+- New grad at University of California, Santa Cruz (UCSC)
+- B.S. in Technology and Information Management (minor in Computer Science)
+- Currently open for a full-time tech position in the US
 
 **Skills**
 ---
